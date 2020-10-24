@@ -18,7 +18,9 @@
 
 [cqu-kb](https://github.com/CQU-AI/cqu-kb)：第三方重庆大学课表日历生成工具
 
-[cqu-kx](https://github.com/CQU-AI/cqu-kx)： 第三方重庆大学课程可选人数查询工具－“快选!!”
+[cqu-kx](https://github.com/CQU-AI/cqu-kx)：第三方重庆大学课程可选人数查询工具－“快选!!”
+
+[UCQU](https://github.com/DL444/UCQU)：UWP 重大教务网客户端
 
 ## LaTeX 相关
 
