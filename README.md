@@ -5,7 +5,7 @@
 包括
 
 - [校园实用类](campus.md)
-- [师生作品](works.md)（TODO）
+- [师生作品](works.md)
 
 该目录将可能持续更新，欢迎 watch 和 star。
 
