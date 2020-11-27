@@ -1,5 +1,7 @@
 # 校园实用类
 
+以下每一分类里的项目按字母顺序排序（暂定）。
+
 ## DrCOM 相关
 
 [CQU\_drcom](https://github.com/purefkh/CQU_drcom)：用于 OpenWrt 的重庆大学 drcom 懒人脚本
