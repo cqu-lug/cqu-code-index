@@ -6,6 +6,8 @@
 
 [CQU\_drcom](https://github.com/purefkh/CQU_drcom)：用于 OpenWrt 的重庆大学 drcom 懒人脚本
 
+[cqu-duodian-curl](https://github.com/Hagb/cqu-duodian-curl)：基于 (b)ash 和 curl 的哆点登陆脚本
+
 [DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端
 
 [drcom-generic](https://github.com/drcoms/drcom-generic)：drcom 非官方客户端
