@@ -22,6 +22,8 @@
 
 [cqu-kx](https://github.com/CQU-AI/cqu-kx)：第三方重庆大学课程可选人数查询工具－“快选!!”
 
+[cqu\_spider](https://github.com/Tiangewang0524/cqu_spider)：重庆大学新闻网爬虫项目
+
 [CQUThesis](https://github.com/nanmu42/CQUThesis)：重庆大学毕业论文 LaTeX 模板
 
 [docker-easyconnect](https://github.com/Hagb/docker-easyconnect)：EasyConnect 的 Docker 运行方案

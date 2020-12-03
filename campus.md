@@ -36,6 +36,8 @@
 
 ## 其他
 
+[cqu\_spider](https://github.com/Tiangewang0524/cqu_spider)：重庆大学新闻网爬虫项目
+
 [docker-easyconnect](https://github.com/Hagb/docker-easyconnect)：EasyConnect 的 Docker 运行方案
 
 [mirrors.cqu.edu.cn](https://mirrors.cqu.edu.cn)：重庆大学开源软件镜像站
