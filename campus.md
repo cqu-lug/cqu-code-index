@@ -18,6 +18,8 @@
 
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
 
+[CQU-Grade-Monitor](https://github.com/VayneDuan/CQU-Grade-Monitor)：重庆大学成绩监控
+
 [cqu-jxgl](https://github.com/CQU-AI/cqu-jxgl)：第三方重庆大学教务处登录模块
 
 [cqu-kb](https://github.com/CQU-AI/cqu-kb)：第三方重庆大学课表日历生成工具
