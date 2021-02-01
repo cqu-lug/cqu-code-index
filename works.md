@@ -36,4 +36,4 @@
 
 [TeXProposal](https://github.com/CQUtug/TeXProposal)：《关于推荐重庆大学开设 TeX 相关课程并推广其运用的提议》的原始文件
 
-[UCQU](https://github.com/DL444/UCQU)：UWP 重大教务网客户端
+[UCQU](https://github.com/DL444/ucqu-ng)：UWP 重大教务网客户端
