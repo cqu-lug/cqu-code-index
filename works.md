@@ -30,6 +30,8 @@
 
 [CQUThesis](https://github.com/nanmu42/CQUThesis)：重庆大学毕业论文 LaTeX 模板
 
+[cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
+
 [docker-easyconnect](https://github.com/Hagb/docker-easyconnect)：EasyConnect 的 Docker 运行方案
 
 [DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端

@@ -28,6 +28,8 @@
 
 [cqu-kx](https://github.com/CQU-AI/cqu-kx)：第三方重庆大学课程可选人数查询工具－“快选!!”
 
+[cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
+
 [UCQU](https://github.com/DL444/ucqu-ng)：UWP 重大教务网客户端
 
 ## LaTeX 相关
