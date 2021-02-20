@@ -16,6 +16,8 @@
 
 [cli\_cqu](https://github.com/zombie110year/cli_cqu)：重庆大学教学管理的命令行界面
 
+[cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
+
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
 
 [CQU\_grade\_exporter](https://github.com/pkmq24/CQU_grade_exporter)：重庆大学教师后台成绩导出软件，提供了一键导出（需要教师权限）

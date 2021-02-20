@@ -8,6 +8,8 @@
 
 [cli\_cqu](https://github.com/zombie110year/cli_cqu)：重庆大学教学管理的命令行界面
 
+[cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
+
 [CQUBeamer](https://github.com/CQUtug/CQUBeamer)：重庆大学 Beamer 模板
 
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
