@@ -12,6 +12,8 @@
 
 [drcom-generic](https://github.com/drcoms/drcom-generic)：drcom 非官方客户端
 
+[drcom-http-multidial](https://github.com/cyyself/drcom-http-multidial)：基于curl且支持绑定网卡多拨的Dr.COM客户端
+
 ## 教务处相关
 
 [cli\_cqu](https://github.com/zombie110year/cli_cqu)：重庆大学教学管理的命令行界面
