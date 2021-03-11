@@ -22,6 +22,8 @@
 
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
 
+[CQU-class2ics](https://github.com/BillYang2016/CQU-class2ics)：重庆大学课程表导出工具，适用于新教务网
+
 [CQU\_grade\_exporter](https://github.com/pkmq24/CQU_grade_exporter)：重庆大学教师后台成绩导出软件，提供了一键导出（需要教师权限）
 
 [CQU-Grade-Monitor](https://github.com/VayneDuan/CQU-Grade-Monitor)：重庆大学成绩监控
