@@ -16,8 +16,6 @@
 
 ## 教务处相关
 
-[cli\_cqu](https://github.com/zombie110year/cli_cqu)：重庆大学教学管理的命令行界面
-
 [cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
 
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
@@ -32,13 +30,9 @@
 
 [cqu-kb](https://github.com/CQU-AI/cqu-kb)：第三方重庆大学课表日历生成工具
 
-[cqu-kx](https://github.com/CQU-AI/cqu-kx)：第三方重庆大学课程可选人数查询工具－“快选!!”
-
 [cqu-schedule](https://github.com/DL444/cqu-schedule): 重庆大学课程日历服务
 
 [cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
-
-[UCQU](https://github.com/DL444/ucqu-ng)：UWP 重大教务网客户端
 
 ## LaTeX 相关
 

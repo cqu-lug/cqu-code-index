@@ -2,7 +2,7 @@
 
 收录了一些与重庆大学相关的[自由](https://www.gnu.org/philosophy/free-sw.html)/[开源](https://opensource.org/osd)项目。
 
-- [校园实用类](campus.md)
+- [校园实用类](campus.md) (另有[过期项目归档](archive/campus.md))
 - [课程实验类](experiments.md)
 - [师生其他作品](works.md)（暂无）
 
