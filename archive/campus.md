@@ -10,3 +10,5 @@
 
 [cqu-jxgl](https://github.com/CQU-AI/cqu-jxgl)：第三方重庆大学教务处登录模块
 
+[CQUScheduleCalendar](https://github.com/CQU-CSA/CQUScheduleCalendar): 利用 Django 制作网站，通过 selenium 爬取课表，生成日历的 ics 文件
+
