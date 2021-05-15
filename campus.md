@@ -8,17 +8,15 @@
 
 [cqu-duodian-curl](https://github.com/Hagb/cqu-duodian-curl)：基于 (b)ash 和 curl 的哆点登陆脚本
 
-[DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端
-
 [drcom-generic](https://github.com/drcoms/drcom-generic)：drcom 非官方客户端
 
 [drcom-http-multidial](https://github.com/cyyself/drcom-http-multidial)：基于curl且支持绑定网卡多拨的Dr.COM客户端
 
+[DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端 (暂停维护)
+
 ## 教务处相关
 
 [cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
-
-[cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学成绩查询工具
 
 [CQU-class2ics](https://github.com/BillYang2016/CQU-class2ics)：重庆大学课程表导出工具，适用于新教务网
 
@@ -26,13 +24,11 @@
 
 [CQU-Grade-Monitor](https://github.com/VayneDuan/CQU-Grade-Monitor)：重庆大学成绩监控
 
-[cqu-jxgl](https://github.com/CQU-AI/cqu-jxgl)：第三方重庆大学教务处登录模块
-
-[cqu-kb](https://github.com/CQU-AI/cqu-kb)：第三方重庆大学课表日历生成工具
-
 [cqu-schedule](https://github.com/DL444/cqu-schedule): 重庆大学课程日历服务
 
 [cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
+
+[cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学老教务网成绩查询工具（暂停维护）
 
 ## LaTeX 相关
 

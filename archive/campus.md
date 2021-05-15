@@ -12,3 +12,4 @@
 
 [CQUScheduleCalendar](https://github.com/CQU-CSA/CQUScheduleCalendar): 利用 Django 制作网站，通过 selenium 爬取课表，生成日历的 ics 文件
 
+[cqu-kb](https://github.com/CQU-AI/cqu-kb)：第三方重庆大学课表日历生成工具
