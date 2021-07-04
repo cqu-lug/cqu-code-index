@@ -24,6 +24,8 @@
 
 [CQU-Grade-Monitor](https://github.com/VayneDuan/CQU-Grade-Monitor)：重庆大学成绩监控
 
+[CQUQueryGrade](https://github.com/CQULHW/CQUQueryGrade): 重庆大学新教务网单点登录+成绩查询
+
 [cqu-schedule](https://github.com/DL444/cqu-schedule): 重庆大学课程日历服务
 
 [cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
