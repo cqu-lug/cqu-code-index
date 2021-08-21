@@ -18,6 +18,8 @@
 
 [cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
 
+[CourseMonitor](https://github.com/iamwhcn/CourseMonitor)：CQU选课状态监测
+
 [CQU-class2ics](https://github.com/BillYang2016/CQU-class2ics)：重庆大学课程表导出工具，适用于新教务网
 
 [CQU\_grade\_exporter](https://github.com/pkmq24/CQU_grade_exporter)：重庆大学教师后台成绩导出软件，提供了一键导出（需要教师权限）
