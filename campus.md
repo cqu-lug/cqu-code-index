@@ -4,7 +4,7 @@
 
 ## DrCOM 相关
 
-[CQU\_drcom](https://github.com/purefkh/CQU_drcom)：用于 OpenWrt 的重庆大学 drcom 懒人脚本
+[CQU\_drcom](https://github.com/CQU-drcom/CQU_drcom)：用于 OpenWrt 的重庆大学 drcom 懒人脚本
 
 [cqu-duodian-curl](https://github.com/Hagb/cqu-duodian-curl)：基于 (b)ash 和 curl 的哆点登陆脚本
 
