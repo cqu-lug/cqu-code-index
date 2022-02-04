@@ -6,6 +6,8 @@
 
 [CQU\_drcom](https://github.com/CQU-drcom/CQU_drcom)：用于 OpenWrt 的重庆大学 drcom 懒人脚本
 
+[cqu-drcom-openwrt](https://github.com/CQU-drcom/cqu-drcom-openwrt): 重庆大学 drcom 的 OpenWrt 包
+
 [cqu-duodian-curl](https://github.com/Hagb/cqu-duodian-curl)：基于 (b)ash 和 curl 的哆点登陆脚本
 
 [drcom-generic](https://github.com/drcoms/drcom-generic)：drcom 非官方客户端
@@ -14,13 +16,15 @@
 
 [DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端 (暂停维护)
 
-## 教务处相关
+## 教务相关
 
 [cm-http-api](https://github.com/weearc/cm-http-api)：从新选课系统自动获取课表数据的方案
 
 [CourseMonitor](https://github.com/iamwhcn/CourseMonitor)：CQU选课状态监测
 
 [CQU-class2ics](https://github.com/BillYang2016/CQU-class2ics)：重庆大学课程表导出工具，适用于新教务网
+
+[cqu\_find\_idle\_time](https://github.com/Hagb/cqu_find_idle_time): CQU 多人时间冲突检查
 
 [CQU\_grade\_exporter](https://github.com/pkmq24/CQU_grade_exporter)：重庆大学教师后台成绩导出软件，提供了一键导出（需要教师权限）
 
@@ -33,6 +37,8 @@
 [cqu\_timetable\_new](https://github.com/weearc/cqu_timetable_new)：课程表 ics 日历文件生成（适配 2020 下半年启用的新选课系统）
 
 [cqu-cj](https://github.com/CQU-AI/cqu-cj)：第三方重庆大学老教务网成绩查询工具（暂停维护）
+
+[pymycqu](https://github.com/Hagb/pymycqu): Python 库，对重庆大学教务网和统一身份认证的部分 web api 进行了封装
 
 ## LaTeX 相关
 
