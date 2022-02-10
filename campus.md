@@ -44,11 +44,13 @@
 
 [pymycqu](https://github.com/Hagb/pymycqu): Python 库，对重庆大学教务网和统一身份认证的部分 web api 进行了封装
 
-## LaTeX 相关
+## 论文排版相关
 
 [CQUBeamer](https://github.com/CQUtug/CQUBeamer)：重庆大学 Beamer 模板
 
 [CQUThesis](https://github.com/nanmu42/CQUThesis)：重庆大学毕业论文 LaTeX 模板
+
+[cqu-thesis-markdown](https://github.com/ilcpm/cqu-thesis-markdown): 重庆大学毕业论文 Markdown 转 Word (docx) 方案
 
 [TeXProposal](https://github.com/CQUtug/TeXProposal)：《关于推荐重庆大学开设 TeX 相关课程并推广其运用的提议》的原始文件
 
