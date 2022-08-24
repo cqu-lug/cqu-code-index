@@ -24,7 +24,7 @@
 
 [CourseMonitor](https://github.com/iamwhcn/CourseMonitor)：CQU选课状态监测
 
-[CQU\_321\_mini](https://gitee.com/cjmyxy/cqu_321_mini)：321CQU 微信小程序前端部分
+[CQU\_321\_mini](https://github.com/platopeanut/321CQU_mini)：321CQU 微信小程序前端部分
 
 [CQU-class2ics](https://github.com/BillYang2016/CQU-class2ics)：重庆大学课程表导出工具，适用于新教务网
 
