@@ -36,6 +36,8 @@
 
 [CQU-Grade-Monitor](https://github.com/VayneDuan/CQU-Grade-Monitor)：重庆大学成绩监控
 
+[cqu-graduate-curricula](https://github.com/haowang-cqu/cqu-graduate-curricula): 重庆大学研究生课程表导出工具
+
 [CQUQueryGrade](https://github.com/CQULHW/CQUQueryGrade): 重庆大学新教务网单点登录+成绩查询
 
 [cqu-schedule](https://github.com/DL444/cqu-schedule): 重庆大学课程日历服务
