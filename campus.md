@@ -16,6 +16,10 @@
 
 [DrcomExecutor](https://github.com/CQU-AI/DrcomExecutor)：第三方重庆大学 Dr.COM 登录器，主要面向 PC 端 (暂停维护)
 
+[UA-Mask](https://github.com/Zesuy/UA-Mask)：用于修改 HTTP User-Agent 的 OpenWrt 软件包。
+
+[luci-app-multi-login](https://github.com/Zesuy/luci-app-multi-login)：用于 Dr.COM 多口自动登录并提供负载均衡方案的 OpenWrt 软件包。
+
 ## 教务相关
 
 [321CQUWebsite](https://github.com/ZhuLegend/321CQUWebsite): 321CQU 小程序后端部分
